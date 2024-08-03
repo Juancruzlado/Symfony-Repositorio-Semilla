@@ -3,7 +3,7 @@
 
 - La idea principal de este repositorio es poder dejar sentada una base para el trabajo futuro en un entorno LEMP/LAMP (Sistema Operativo a elección), teniendo en cuenta el uso de VSCode como IDE y un uso de PHP en el Framework de Symfony. 
 
-1. Descargar analisis de codigo estático Psalm <https://psalm.dev/docs/running_psalm/installation/> 
+1. Descargar analisis de codigo estático Psalm <https://psalm.dev/docs/running_psalm/installation/> + PHPStan https://phpstan.org/user-guide/getting-started
 ------------------------------------------------------------------------------------
 2. Descargar extension PHP dev para Linter, Formateos, autocompletados, etc. ![Doc ExtPHP](https://github.com/Juancruzlado/Repositorio-Semilla-Symfony/assets/82162416/d34ce026-4c9c-43bb-8057-a49559bcf358)
 ------------------------------------------------------------------------------------
